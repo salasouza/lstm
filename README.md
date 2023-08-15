@@ -28,3 +28,9 @@ $$f_{(activation)}(y_t) =\alpha+(y_t*\beta)$$
 
 ### Association between Linear Regression and Perceptron
 ![Alt text](image-2.png)
+
+### Process of Calibration
+![Alt text](image-4.png)
+### LSTM
+
+![Alt text](image-3.png)
