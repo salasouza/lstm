@@ -10,9 +10,9 @@ O LSTM (Long Short Term Memory) is a type of archtype used in Dee
 </p>
 <br></br>
 
-<p align='justify'>
+### Equations in LSTM
 
-</p>
+### Equations base
 
 $$y(t) = f(x)$$
 
@@ -21,8 +21,6 @@ $$\alpha$$
 $$y_t =f(\sum_{i=1}^d (y_t*\beta)+\alpha_i)$$
 
 $$f_{(activation)}(y_t) =\alpha+(y_t*\beta)$$
-
-### Equations in LSTM
 
 #### [1] Forgate Gate:
 
@@ -54,6 +52,7 @@ $$h_t = o_t~\circ~fh(c_t)$$
 
 ### Process of Calibration
 ![Alt text](image-4.png)
+
 ### LSTM
 
 ![Alt text](image-3.png)
