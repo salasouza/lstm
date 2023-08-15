@@ -39,7 +39,7 @@ $$c_t=f_c(W_cx_t+U_ch_{(t-1)}+b_c)$$
 
 #### [5] Cell State Vector:
 
-$$c_t = f_t~\circ~c_{t+1}+i_t~\circ~\hat{c}_t$$
+$$c_t = f_t\:\circ\:c_{t+1}+i_t~\circ~\hat{c}_t$$
 
 $$h_t = o_t~\circ~fh(c_t)$$
 
