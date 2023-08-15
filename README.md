@@ -44,13 +44,13 @@ $$c_t = f_t\:\circ\:c_{t+1}+i_t~\circ~\hat{c}_t$$
 $$h_t = o_t~\circ~fh(c_t)$$
 
 ### Linear Regression
-![](image-1.png)
+![](images/image-1.png)
 
 ### Association between Linear Regression and Perceptron
-![Alt text](image-2.png)
+![Alt text](images/image-2.png)
 
 ### Process of Calibration
-![Alt text](image-4.png)
+![Alt text](images/image-4.png)
 
 ### LSTM
-![Alt text](image-3.png)
+![Alt text](images/image-3.png)
