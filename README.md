@@ -22,7 +22,7 @@ $$y_t =f(\sum_{i=1}^d (y_t*\beta)+\alpha_i)$$
 
 $$f_{(activation)}(y_t) =\alpha+(y_t*\beta)$$
 
-#### [1] Forgate Gate:
+#### Forgate Gate:
 
 $$f_t=f_g(W_f*x_t+U_f*h_{(t-1)}+b_f)$$
 
